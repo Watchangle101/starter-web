@@ -1,0 +1,7 @@
+Cloud DevOps Engineer
+Citigroup
+April 2013 to April 2017
+•	Supporting software development and data management projects that prepare large datasets for delivery to a shared cloud computing and storage environment.
+•	Provide strategies and requirements for the seamless migration of applications, web services, and data from local and server based systems to the AWS cloud.
+•	Part of a team of devOps engineer for infrastructure support on AWS cloud. Creating cloud formation scripts for hosting software on AWS cloud. Automating the installation of softwares through powershell scripts
+
